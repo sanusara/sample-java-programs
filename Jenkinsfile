@@ -1,6 +1,6 @@
 pipeline{
 tools {
-	jdk "JDK 8" 
+	jdk "JDK" 
 	maven "Maven"
 }
              
